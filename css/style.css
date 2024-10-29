@@ -15,3 +15,11 @@ img{
     vertical-align: middle;
 }
 /* css start here */
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: red;
+    color: black;
+    align-items: center;
+}
